@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 1a073fd7cafb0ad42aaa84eb01e1512d
+timeCreated: 1453848858
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Boots_L_Ankle
+    100002: Boots_L_Knee
+    100004: Boots_R_Ankle
+    100006: Boots_R_Knee
+    100008: //RootNode
+    100010: Helmet_C9
+    100012: Jacket_body_C9
+    100014: Jacket_L_Elbow
+    100016: Jacket_L_Shoulder
+    100018: Jacket_R_Elbow
+    100020: Jacket_R_Shoulder
+    100022: L_Ankle
+    100024: L_Elbow
+    100026: L_Knee
+    100028: L_Shoulder
+    100030: L_Thigh
+    100032: L_Wrist
+    100034: Lower_Spine
+    100036: Neck
+    100038: Pants_body
+    100040: Pants_L_Knee
+    100042: Pants_L_Thigh
+    100044: Pants_R_Knee
+    100046: Pants_R_Thigh
+    100048: Pelvis
+    100050: R_Ankle
+    100052: R_Elbow
+    100054: R_Knee
+    100056: R_Shoulder
+    100058: R_Thigh
+    100060: R_Wrist
+    100062: Upper_Spine
+    400000: Boots_L_Ankle
+    400002: Boots_L_Knee
+    400004: Boots_R_Ankle
+    400006: Boots_R_Knee
+    400008: //RootNode
+    400010: Helmet_C9
+    400012: Jacket_body_C9
+    400014: Jacket_L_Elbow
+    400016: Jacket_L_Shoulder
+    400018: Jacket_R_Elbow
+    400020: Jacket_R_Shoulder
+    400022: L_Ankle
+    400024: L_Elbow
+    400026: L_Knee
+    400028: L_Shoulder
+    400030: L_Thigh
+    400032: L_Wrist
+    400034: Lower_Spine
+    400036: Neck
+    400038: Pants_body
+    400040: Pants_L_Knee
+    400042: Pants_L_Thigh
+    400044: Pants_R_Knee
+    400046: Pants_R_Thigh
+    400048: Pelvis
+    400050: R_Ankle
+    400052: R_Elbow
+    400054: R_Knee
+    400056: R_Shoulder
+    400058: R_Thigh
+    400060: R_Wrist
+    400062: Upper_Spine
+    2300000: Boots_L_Ankle
+    2300002: Boots_L_Knee
+    2300004: Boots_R_Ankle
+    2300006: Boots_R_Knee
+    2300008: Helmet_C9
+    2300010: Jacket_body_C9
+    2300012: Jacket_L_Elbow
+    2300014: Jacket_L_Shoulder
+    2300016: Jacket_R_Elbow
+    2300018: Jacket_R_Shoulder
+    2300020: Pants_body
+    2300022: Pants_L_Knee
+    2300024: Pants_L_Thigh
+    2300026: Pants_R_Knee
+    2300028: Pants_R_Thigh
+    3300000: Boots_L_Ankle
+    3300002: Boots_L_Knee
+    3300004: Boots_R_Ankle
+    3300006: Boots_R_Knee
+    3300008: Helmet_C9
+    3300010: Jacket_body_C9
+    3300012: Jacket_L_Elbow
+    3300014: Jacket_L_Shoulder
+    3300016: Jacket_R_Elbow
+    3300018: Jacket_R_Shoulder
+    3300020: Pants_body
+    3300022: Pants_L_Knee
+    3300024: Pants_L_Thigh
+    3300026: Pants_R_Knee
+    3300028: Pants_R_Thigh
+    4300000: Carl
+    4300002: Pants_L_Thigh
+    4300004: Boots_L_Knee
+    4300006: Pants_L_Knee
+    4300008: Boots_L_Ankle
+    4300010: Pants_R_Thigh
+    4300012: Boots_R_Knee
+    4300014: Pants_R_Knee
+    4300016: Boots_R_Ankle
+    4300018: Pants_body
+    4300020: Jacket_body_C9
+    4300022: Jacket_L_Shoulder
+    4300024: Jacket_L_Elbow
+    4300026: Jacket_R_Shoulder
+    4300028: Jacket_R_Elbow
+    4300030: Helmet_C9
+    9500000: //RootNode
+    13700000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

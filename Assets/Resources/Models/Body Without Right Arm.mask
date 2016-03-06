@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Body Without Right Arm
+  m_Mask: 01000000010000000100000001000000010000000100000000000000010000000000000001000000010000000100000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Pelvis
+    m_Weight: 1
+  - m_Path: Pelvis/L_Thigh
+    m_Weight: 1
+  - m_Path: Pelvis/L_Thigh/L_Knee
+    m_Weight: 1
+  - m_Path: Pelvis/L_Thigh/L_Knee/L_Ankle
+    m_Weight: 1
+  - m_Path: Pelvis/Lower_Spine
+    m_Weight: 1
+  - m_Path: Pelvis/Lower_Spine/Upper_Spine
+    m_Weight: 1
+  - m_Path: Pelvis/Lower_Spine/Upper_Spine/L_Shoulder
+    m_Weight: 1
+  - m_Path: Pelvis/Lower_Spine/Upper_Spine/L_Shoulder/L_Elbow
+    m_Weight: 1
+  - m_Path: Pelvis/Lower_Spine/Upper_Spine/L_Shoulder/L_Elbow/L_Wrist
+    m_Weight: 1
+  - m_Path: Pelvis/Lower_Spine/Upper_Spine/Neck
+    m_Weight: 1
+  - m_Path: Pelvis/Lower_Spine/Upper_Spine/R_Shoulder
+    m_Weight: 1
+  - m_Path: Pelvis/Lower_Spine/Upper_Spine/R_Shoulder/R_Elbow
+    m_Weight: 1
+  - m_Path: Pelvis/Lower_Spine/Upper_Spine/R_Shoulder/R_Elbow/R_Wrist
+    m_Weight: 1
+  - m_Path: Pelvis/R_Thigh
+    m_Weight: 1
+  - m_Path: Pelvis/R_Thigh/R_Knee
+    m_Weight: 1
+  - m_Path: Pelvis/R_Thigh/R_Knee/R_Ankle
+    m_Weight: 1
