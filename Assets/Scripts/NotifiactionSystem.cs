@@ -38,9 +38,8 @@ public class NotifiactionSystem : MonoBehaviour {
     {
         anim = GetComponent<Animator>();
         sound = GetComponent<AudioSource>();
-        NotificationShow("1", "process");
-        NotificationShow("2", "info");
-        NotificationShow("3", "process");
+        NotificationShow("Build: GitHub 2016-11-03", "process");
+        NotificationShow("Tento build je ve fázi vývoje", "warning");
     }
 	
 	// Update is called once per frame
