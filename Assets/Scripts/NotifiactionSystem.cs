@@ -38,7 +38,7 @@ public class NotifiactionSystem : MonoBehaviour {
     {
         anim = GetComponent<Animator>();
         sound = GetComponent<AudioSource>();
-        NotificationShow("1", "info");
+        NotificationShow("1", "process");
         NotificationShow("2", "info");
         NotificationShow("3", "process");
     }
@@ -58,7 +58,7 @@ public class NotifiactionSystem : MonoBehaviour {
         if (queue>0&&!show&&Time.time>nextTime)
         {
             notificationText.text = listText[0];
-            notificationIcon.overrideSprite = Resources.Load("UI/Icons/" + listIcon[0]) as Sprite;
+            notificationIcon.sprite = Resources.Load<Sprite>("UI/Icons/" + listIcon[0]);
             anim.SetBool("Show", true);
             show = true;
             sound.PlayOneShot(notificationAudioClip);
@@ -75,7 +75,7 @@ public class NotifiactionSystem : MonoBehaviour {
         if (!show)
         {
             notificationText.text = text;
-            notificationIcon.overrideSprite = Resources.Load("UI/Icons/" + icon) as Sprite;
+            notificationIcon.sprite = Resources.Load<Sprite>("UI/Icons/" + icon);
             anim.SetBool("Show", true);
             show = true;
             sound.PlayOneShot(notificationAudioClip);
